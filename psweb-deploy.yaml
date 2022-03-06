@@ -63,5 +63,5 @@ status:
     type: Progressing
   observedGeneration: 3
   readyReplicas: 3
-  replicas: 3
+  replicas: 5
   updatedReplicas: 3
